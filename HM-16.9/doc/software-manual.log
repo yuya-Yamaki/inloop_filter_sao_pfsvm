@@ -1,0 +1,32 @@
+This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (sjis) (TeX Live 2017/W32TeX) (preloaded format=platex 2018.4.5)  26 JUN 2018 17:40
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./software-manual.tex
+(./software-manual.tex
+pLaTeX2e <2017/10/28>+4 (based on LaTeX2e <2017-04-15>)
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+
+! LaTeX Error: File `jctvcdoc.cls' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: cls)
+
+Enter file name: 
+! Emergency stop.
+<read *> 
+         
+l.2 ^^M
+       
+*** (cannot \read from terminal in nonstop modes)
+
+ 
+Here is how much of TeX's memory you used:
+ 9 strings out of 493640
+ 137 string characters out of 6151720
+ 55631 words of memory out of 5000000
+ 3706 multiletter control sequences out of 15000+600000
+ 7511 words of font info for 31 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 10i,0n,7p,62b,8s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.

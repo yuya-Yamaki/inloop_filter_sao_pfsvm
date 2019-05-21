@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder
+END
+TEncRateCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/TEncRateCtrl.h
+END
+SyntaxElementWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/SyntaxElementWriter.h
+END
+TEncBinCoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/TEncBinCoder.h
+END
+TEncGOP.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/TEncGOP.h
+END
+WeightPredAnalysis.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/WeightPredAnalysis.cpp
+END
+TEncCavlc.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/TEncCavlc.h
+END
+TEncBinCoderCABACCounter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/TEncBinCoderCABACCounter.cpp
+END
+TEncEntropy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/TEncEntropy.cpp
+END
+TEncPreanalyzer.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/TEncPreanalyzer.h
+END
+TEncCfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/TEncCfg.h
+END
+TEncBinCoderCABAC.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/TEncBinCoderCABAC.h
+END
+TEncSlice.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/TEncSlice.h
+END
+TEncSearch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/TEncSearch.cpp
+END
+TEncSampleAdaptiveOffset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/TEncSampleAdaptiveOffset.cpp
+END
+SEIEncoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/SEIEncoder.cpp
+END
+TEncTop.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/TEncTop.h
+END
+TEncAnalyze.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/TEncAnalyze.h
+END
+TEncSbac.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/TEncSbac.cpp
+END
+TEncPic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/TEncPic.cpp
+END
+TEncCu.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/TEncCu.h
+END
+NALwrite.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/NALwrite.h
+END
+TEncRateCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/TEncRateCtrl.cpp
+END
+AnnexBwrite.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/AnnexBwrite.h
+END
+SyntaxElementWriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/SyntaxElementWriter.cpp
+END
+TEncGOP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/TEncGOP.cpp
+END
+SEIwrite.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/SEIwrite.h
+END
+TEncCavlc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/TEncCavlc.cpp
+END
+TEncPreanalyzer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/TEncPreanalyzer.cpp
+END
+TEncBinCoderCABAC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/TEncBinCoderCABAC.cpp
+END
+TEncSlice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/TEncSlice.cpp
+END
+WeightPredAnalysis.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/WeightPredAnalysis.h
+END
+TEncTop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/TEncTop.cpp
+END
+TEncBinCoderCABACCounter.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/TEncBinCoderCABACCounter.h
+END
+TEncEntropy.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/TEncEntropy.h
+END
+TEncCu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/TEncCu.cpp
+END
+TEncSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/TEncSearch.h
+END
+TEncSampleAdaptiveOffset.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/TEncSampleAdaptiveOffset.h
+END
+NALwrite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/NALwrite.cpp
+END
+SEIEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/SEIEncoder.h
+END
+TEncSbac.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/TEncSbac.h
+END
+TEncPic.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/TEncPic.h
+END
+SEIwrite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/source/Lib/TLibEncoder/SEIwrite.cpp
+END

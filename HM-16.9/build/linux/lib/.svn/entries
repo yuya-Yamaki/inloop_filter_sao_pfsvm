@@ -1,0 +1,46 @@
+10
+
+dir
+4909
+https://hevc.hhi.fraunhofer.de/svn/svn_HEVCSoftware/tags/HM-16.9/build/linux/lib
+https://hevc.hhi.fraunhofer.de/svn/svn_HEVCSoftware
+
+
+
+2015-03-09T12:37:43.515906Z
+4354
+suehring
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ce97f6c2-8f86-0410-b44d-af84b13ec34f
+
+TLibDecoderAnalyser
+dir
+
+TLibDecoder
+dir
+
+TLibCommon
+dir
+
+TLibVideoIO
+dir
+
+TLibEncoder
+dir
+
+TAppCommon
+dir
+

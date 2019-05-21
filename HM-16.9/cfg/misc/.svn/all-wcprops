@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/cfg/misc
+END
+encoder_lowdelay_main_field_coding.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/cfg/misc/encoder_lowdelay_main_field_coding.cfg
+END
+encoder_randomaccess_main_field_coding_simple_GOP.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/cfg/misc/encoder_randomaccess_main_field_coding_simple_GOP.cfg
+END
+encoder_randomaccess_main_2tids.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/cfg/misc/encoder_randomaccess_main_2tids.cfg
+END
+encoder_randomaccess_main_field_coding.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/cfg/misc/encoder_randomaccess_main_field_coding.cfg
+END
+example_colour_remapping_sei_encoder_0.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/svn_HEVCSoftware/!svn/ver/4736/tags/HM-16.9/cfg/misc/example_colour_remapping_sei_encoder_0.txt
+END
